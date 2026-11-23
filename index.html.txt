@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SOFIK TRANSPORT</title>
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+  color: #222;
+}
+
+header {
+  background: #101d35;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+.hero {
+  background: #142b50;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero h2 {
+  font-size: 38px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
+.btn {
+  display: inline-block;
+  background: #ffb400;
+  color: #111;
+  padding: 14px 28px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.services {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.services h2 {
+  margin-bottom: 25px;
+}
+
+.service {
+  background: white;
+  padding: 25px;
+  margin: 15px auto;
+  max-width: 350px;
+  border-radius: 10px;
+}
+
+footer {
+  background: #101d35;
+  color: white;
+  text-align: center;
+  padding: 25px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>SOFIK TRANSPORT</h1>
+  <p>Your Trusted Transport Partner</p>
+</header>
+
+<section class="hero">
+  <h2>Welcome to Sofik Transport</h2>
+  <p>Reliable Transport Solutions for Everyone</p>
+  <a href="#contact" class="btn">Contact Us</a>
+</section>
+
+<section class="services">
+  <h2>Our Services</h2>
+
+  <div class="service">
+    <h3>Goods Transport</h3>
+    <p>Transport solutions for your goods.</p>
+  </div>
+
+  <div class="service">
+    <h3>Local Transport</h3>
+    <p>Reliable local transportation services.</p>
+  </div>
+
+  <div class="service">
+    <h3>Booking Support</h3>
+    <p>Contact us for transport enquiries.</p>
+  </div>
+</section>
+
+<footer id="contact">
+  <h2>SOFIK TRANSPORT</h2>
+  <p>Contact details coming soon.</p>
+  <p>© 2026 Sofik Transport</p>
+</footer>
+
+</body>
+</html>
