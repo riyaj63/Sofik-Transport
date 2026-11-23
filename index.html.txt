@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="SOFIK TRANSPORT – Reliable goods transportation from Kolkata to North 24 Parganas, West Bengal. Book a truck, get a free quote, and experience safe, timely delivery." />
+  <meta name="keywords" content="transport Kolkata, goods transport North 24 Parganas, truck hire West Bengal, logistics Kolkata, cargo transport, SOFIK TRANSPORT" />
+  <meta name="author" content="SOFIK TRANSPORT" />
+  <meta property="og:title" content="SOFIK TRANSPORT – Kolkata to North 24 Parganas Goods Transport" />
+  <meta property="og:description" content="Reliable goods transportation from Kolkata to North 24 Parganas, West Bengal. Book a truck today." />
+  <meta property="og:type" content="website" />
+  <title>SOFIK TRANSPORT – Kolkata to North 24 Parganas Goods Transport</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ===== NAVBAR ===== -->
+  <header class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="#home" class="nav-logo" id="nav-logo-link">
+        <img
+          src="public/images/sofik-logo.svg"
+          alt="Sofik Transport Logo"
+          class="nav-logo-img"
+          width="180"
+          height="45"
+        />
+      </a>
+      <nav class="nav-links" id="nav-links">
+        <a href="#home" class="nav-link active">Home</a>
+        <a href="#about" class="nav-link">About Us</a>
+        <a href="#services" class="nav-link">Services</a>
+        <a href="#vehicles" class="nav-link">Our Fleet</a>
+        <a href="#areas" class="nav-link">Service Areas</a>
+        <a href="#booking" class="nav-link">Book Now</a>
+        <a href="#contact" class="nav-link">Contact</a>
+      </nav>
+      <div class="nav-cta">
+        <a href="#booking" class="btn btn-primary btn-sm" id="nav-quote-btn">Get Free Quote</a>
+      </div>
+      <button class="hamburger" id="hamburger" aria-label="Toggle Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ===== HERO SECTION ===== -->
+  <section class="hero" id="home">
+    <div class="hero-bg">
+      <img src="public/images/company-truck-hero.jpeg" alt="Sofik Transport – branded company truck at logistics yard, Kolkata" class="hero-img" id="hero-bg-img" />
+      <div class="hero-overlay"></div>
+    </div>
+    <div class="hero-content">
+      <div class="hero-badge animate-fade-up" style="animation-delay:0.1s">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
+        Trusted Goods Transport in West Bengal
+      </div>
+      <h1 class="hero-title animate-fade-up" style="animation-delay:0.2s">
+        Fast &amp; Reliable<br />
+        <span class="hero-highlight">Goods Transport</span><br />
+        Kolkata to North 24 Parganas
+      </h1>
+      <p class="hero-desc animate-fade-up" style="animation-delay:0.35s">
+        Your trusted partner for safe, on-time goods delivery across Kolkata and all districts of North 24 Parganas, West Bengal. Mini trucks, tempos &amp; heavy vehicles available.
+      </p>
+      <div class="hero-actions animate-fade-up" style="animation-delay:0.5s">
+        <a href="#booking" class="btn btn-primary btn-lg" id="hero-book-btn">Book a Truck Now</a>
+        <a href="#services" class="btn btn-outline btn-lg" id="hero-services-btn">View Services</a>
+      </div>
+      <div class="hero-stats animate-fade-up" style="animation-delay:0.65s">
+        <div class="stat-item">
+          <span class="stat-number">500+</span>
+          <span class="stat-label">Deliveries Done</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-number">24/7</span>
+          <span class="stat-label">Service Available</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-number">100%</span>
+          <span class="stat-label">Safe Delivery</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-scroll-hint">
+      <span>Scroll Down</span>
+      <div class="scroll-arrow">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== TRUST BAR ===== -->
+  <div class="trust-bar">
+    <div class="container">
+      <div class="trust-items">
+        <div class="trust-item">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          <span>Safe &amp; Secure</span>
+        </div>
+        <div class="trust-item">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12,6 12,12 16,14"/></svg>
+          <span>On-Time Delivery</span>
+        </div>
+        <div class="trust-item">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/></svg>
+          <span>Experienced Team</span>
+        </div>
+        <div class="trust-item">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="3" width="15" height="13"/><polygon points="16,8 20,8 23,11 23,16 16,16 16,8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+          <span>All Vehicle Types</span>
+        </div>
+        <div class="trust-item">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg>
+          <span>Affordable Rates</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== ABOUT SECTION ===== -->
+  <section class="section about-section" id="about">
+    <div class="container">
+      <div class="about-grid">
+        <div class="about-image-col">
+          <div class="about-img-wrapper">
+            <img src="public/images/company-fleet.jpg" alt="Sofik Transport – full fleet of transport trucks at logistics hub" class="about-img" />
+            <div class="about-badge-card">
+              <div class="badge-icon">🚛</div>
+              <div class="badge-info">
+                <strong>Local Expert</strong>
+                <span>North 24 Parganas</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="about-content-col">
+          <div class="section-label">About Us</div>
+          <h2 class="section-title">Your Trusted Transport Partner<br />in West Bengal</h2>
+          <p class="about-text">
+            SOFIK TRANSPORT is a dedicated goods transportation company serving the Kolkata and North 24 Parganas region of West Bengal. We are committed to providing reliable, safe, and affordable logistics solutions for businesses and individuals alike.
+          </p>
+          <p class="about-text">
+            Whether you need to move household goods, commercial cargo, or industrial materials, our experienced drivers and well-maintained fleet ensure your goods reach their destination safely and on time.
+          </p>
+          <div class="about-highlights">
+            <div class="highlight-item">
+              <div class="highlight-icon">✓</div>
+              <span>Local route expertise across North 24 Parganas districts</span>
+            </div>
+            <div class="highlight-item">
+              <div class="highlight-icon">✓</div>
+              <span>Trained &amp; professional drivers</span>
+            </div>
+            <div class="highlight-item">
+              <div class="highlight-icon">✓</div>
+              <span>Well-maintained &amp; insured vehicles</span>
+            </div>
+            <div class="highlight-item">
+              <div class="highlight-icon">✓</div>
+              <span>Transparent pricing with no hidden charges</span>
+            </div>
+            <div class="highlight-item">
+              <div class="highlight-icon">✓</div>
+              <span>Available 7 days a week, including holidays</span>
+            </div>
+          </div>
+          <a href="#booking" class="btn btn-primary" id="about-cta-btn">Get a Free Quote</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SERVICES SECTION ===== -->
+  <section class="section services-section" id="services">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">What We Offer</div>
+        <h2 class="section-title">Our Transport Services</h2>
+        <p class="section-desc">Complete goods transportation solutions from Kolkata to all parts of North 24 Parganas and beyond.</p>
+      </div>
+      <div class="services-grid">
+        <div class="service-card" id="service-local">
+          <div class="service-icon-wrap">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="1" y="3" width="15" height="13"/><polygon points="16,8 20,8 23,11 23,16 16,16 16,8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+          </div>
+          <h3 class="service-title">Local Goods Transport</h3>
+          <p class="service-desc">Fast and affordable local transportation of goods across Kolkata city and nearby areas. Same-day delivery available.</p>
+          <ul class="service-features">
+            <li>Same-day delivery</li>
+            <li>Mini trucks &amp; tempos</li>
+            <li>Door-to-door service</li>
+          </ul>
+        </div>
+        <div class="service-card featured" id="service-intercity">
+          <div class="service-badge">Most Popular</div>
+          <div class="service-icon-wrap">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 17l2-7h14l2 7"/><path d="M3 17h18"/><circle cx="7.5" cy="19.5" r="1.5"/><circle cx="16.5" cy="19.5" r="1.5"/><path d="M10 10V7a2 2 0 012-2h0a2 2 0 012 2v3"/></svg>
+          </div>
+          <h3 class="service-title">Kolkata → North 24 Parganas</h3>
+          <p class="service-desc">Our primary route: reliable, scheduled transportation from all parts of Kolkata to every district of North 24 Parganas.</p>
+          <ul class="service-features">
+            <li>Barasat, Barrackpore &amp; more</li>
+            <li>Scheduled &amp; on-demand trips</li>
+            <li>Heavy &amp; light cargo</li>
+          </ul>
+        </div>
+        <div class="service-card" id="service-household">
+          <div class="service-icon-wrap">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
+          </div>
+          <h3 class="service-title">Household Shifting</h3>
+          <p class="service-desc">Safe relocation of household goods, furniture, and appliances. Careful handling with proper packaging support.</p>
+          <ul class="service-features">
+            <li>Furniture &amp; appliances</li>
+            <li>Careful loading &amp; unloading</li>
+            <li>Flexible scheduling</li>
+          </ul>
+        </div>
+        <div class="service-card" id="service-commercial">
+          <div class="service-icon-wrap">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 7H4a2 2 0 00-2 2v6a2 2 0 002 2h16a2 2 0 002-2V9a2 2 0 00-2-2z"/><path d="M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16"/></svg>
+          </div>
+          <h3 class="service-title">Commercial Cargo</h3>
+          <p class="service-desc">Regular and bulk cargo transport for businesses, shops, and industries. Reliable supply chain support for your business.</p>
+          <ul class="service-features">
+            <li>Bulk &amp; retail goods</li>
+            <li>Regular scheduled runs</li>
+            <li>Business accounts available</li>
+          </ul>
+        </div>
+        <div class="service-card" id="service-construction">
+          <div class="service-icon-wrap">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="6" width="20" height="12" rx="2"/><path d="M2 10h20"/><path d="M7 6V4M17 6V4"/></svg>
+          </div>
+          <h3 class="service-title">Construction Materials</h3>
+          <p class="service-desc">Heavy-load transportation of construction materials like bricks, sand, cement, steel rods, and timber.</p>
+          <ul class="service-features">
+            <li>Heavy-duty trucks available</li>
+            <li>High load capacity</li>
+            <li>Site-to-site delivery</li>
+          </ul>
+        </div>
+        <div class="service-card" id="service-urgent">
+          <div class="service-icon-wrap">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="13,2 3,14 12,14 11,22 21,10 12,10 13,2"/></svg>
+          </div>
+          <h3 class="service-title">Urgent / Express Delivery</h3>
+          <p class="service-desc">Need goods delivered urgently? Our express service ensures priority pickup and fastest possible delivery.</p>
+          <ul class="service-features">
+            <li>Priority booking</li>
+            <li>Direct, non-stop trips</li>
+            <li>24/7 availability</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== VEHICLES GALLERY ===== -->
+  <section class="section vehicles-section" id="vehicles">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">Our Fleet</div>
+        <h2 class="section-title">Our Vehicle Gallery</h2>
+        <p class="section-desc">We maintain a diverse fleet of well-serviced vehicles to match every cargo requirement and budget.</p>
+      </div>
+      <div class="vehicles-grid">
+        <div class="vehicle-card" id="vehicle-mini">
+          <div class="vehicle-img-wrap">
+            <img src="images/mini_truck.jpg" alt="Mini truck for small goods transport" />
+            <div class="vehicle-overlay">
+              <span class="vehicle-tag">Light Cargo</span>
+            </div>
+          </div>
+          <div class="vehicle-info">
+            <h3 class="vehicle-name">Mini Truck / Tata Ace</h3>
+            <div class="vehicle-specs">
+              <div class="spec"><span class="spec-label">Capacity</span><span class="spec-val">Up to 1 Ton</span></div>
+              <div class="spec"><span class="spec-label">Best For</span><span class="spec-val">Small goods, parcels</span></div>
+              <div class="spec"><span class="spec-label">Route</span><span class="spec-val">Local &amp; short distance</span></div>
+            </div>
+            <a href="#booking" class="btn btn-outline-blue btn-sm" id="vehicle-mini-book">Book Now</a>
+          </div>
+        </div>
+        <div class="vehicle-card" id="vehicle-tempo">
+          <div class="vehicle-img-wrap">
+            <img src="images/tempo_vehicle.jpg" alt="Tempo / pickup truck for medium goods" />
+            <div class="vehicle-overlay">
+              <span class="vehicle-tag">Medium Cargo</span>
+            </div>
+          </div>
+          <div class="vehicle-info">
+            <h3 class="vehicle-name">Tempo / Pickup Truck</h3>
+            <div class="vehicle-specs">
+              <div class="spec"><span class="spec-label">Capacity</span><span class="spec-val">1 to 3 Tons</span></div>
+              <div class="spec"><span class="spec-label">Best For</span><span class="spec-val">Household goods, retail</span></div>
+              <div class="spec"><span class="spec-label">Route</span><span class="spec-val">Kolkata to N24 Parganas</span></div>
+            </div>
+            <a href="#booking" class="btn btn-outline-blue btn-sm" id="vehicle-tempo-book">Book Now</a>
+          </div>
+        </div>
+        <div class="vehicle-card" id="vehicle-large">
+          <div class="vehicle-img-wrap">
+            <img src="images/large_truck.jpg" alt="Large truck for heavy cargo transport" />
+            <div class="vehicle-overlay">
+              <span class="vehicle-tag">Heavy Cargo</span>
+            </div>
+          </div>
+          <div class="vehicle-info">
+            <h3 class="vehicle-name">Large Truck / Lorry</h3>
+            <div class="vehicle-specs">
+              <div class="spec"><span class="spec-label">Capacity</span><span class="spec-val">5 to 15+ Tons</span></div>
+              <div class="spec"><span class="spec-label">Best For</span><span class="spec-val">Industrial &amp; construction</span></div>
+              <div class="spec"><span class="spec-label">Route</span><span class="spec-val">All routes in West Bengal</span></div>
+            </div>
+            <a href="#booking" class="btn btn-outline-blue btn-sm" id="vehicle-large-book">Book Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SERVICE AREAS ===== -->
+  <section class="section areas-section" id="areas">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">Where We Serve</div>
+        <h2 class="section-title">Our Service Areas</h2>
+        <p class="section-desc">We provide goods transport across Kolkata and all major areas of North 24 Parganas district.</p>
+      </div>
+      <div class="areas-layout">
+        <div class="area-col">
+          <div class="area-group">
+            <div class="area-group-header">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              <h3>Kolkata (Origin)</h3>
+            </div>
+            <div class="area-tags">
+              <span class="area-tag">Kolkata City</span>
+              <span class="area-tag">Salt Lake (Bidhannagar)</span>
+              <span class="area-tag">Howrah</span>
+              <span class="area-tag">Dum Dum</span>
+              <span class="area-tag">Belghoria</span>
+              <span class="area-tag">Ultadanga</span>
+              <span class="area-tag">Shyambazar</span>
+              <span class="area-tag">Maniktala</span>
+              <span class="area-tag">New Town / Rajarhat</span>
+              <span class="area-tag">Airport Area</span>
+            </div>
+          </div>
+        </div>
+        <div class="area-route-arrow">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12,5 19,12 12,19"/></svg>
+          <span>To</span>
+        </div>
+        <div class="area-col">
+          <div class="area-group">
+            <div class="area-group-header">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              <h3>North 24 Parganas (Destination)</h3>
+            </div>
+            <div class="area-tags">
+              <span class="area-tag primary-tag">Barasat</span>
+              <span class="area-tag primary-tag">Barrackpore</span>
+              <span class="area-tag primary-tag">Titagarh</span>
+              <span class="area-tag primary-tag">Naihati</span>
+              <span class="area-tag primary-tag">Kalyani</span>
+              <span class="area-tag primary-tag">Habra</span>
+              <span class="area-tag primary-tag">Ashoknagar</span>
+              <span class="area-tag primary-tag">Basirhat</span>
+              <span class="area-tag primary-tag">Bongaon</span>
+              <span class="area-tag primary-tag">Gaighata</span>
+              <span class="area-tag primary-tag">Deganga</span>
+              <span class="area-tag primary-tag">Sandeshkhali</span>
+              <span class="area-tag primary-tag">Hingalganj</span>
+              <span class="area-tag primary-tag">Swarupnagar</span>
+              <span class="area-tag primary-tag">Bagdah</span>
+              <span class="area-tag primary-tag">Amdanga</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="areas-note">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+        <span>Don't see your area? <a href="#contact">Contact us</a> – we may still be able to serve you!</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== BOOKING FORM ===== -->
+  <section class="section booking-section" id="booking">
+    <div class="container">
+      <div class="booking-layout">
+        <div class="booking-info">
+          <div class="section-label light">Book &amp; Quote</div>
+          <h2 class="section-title white">Get a Free Transport Quote</h2>
+          <p class="booking-desc">Fill in the form and we'll get back to you quickly with the best price for your transport requirement. No obligation, completely free!</p>
+          <div class="booking-benefits">
+            <div class="benefit-item">
+              <div class="benefit-icon">🚀</div>
+              <div>
+                <strong>Quick Response</strong>
+                <p>We respond to all quote requests promptly</p>
+              </div>
+            </div>
+            <div class="benefit-item">
+              <div class="benefit-icon">💰</div>
+              <div>
+                <strong>Best Price Guaranteed</strong>
+                <p>Competitive, transparent pricing with no hidden costs</p>
+              </div>
+            </div>
+            <div class="benefit-item">
+              <div class="benefit-icon">📦</div>
+              <div>
+                <strong>All Cargo Types</strong>
+                <p>We handle household, commercial &amp; industrial goods</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="booking-form-wrap">
+          <form class="booking-form" id="booking-form" novalidate>
+            <h3 class="form-title">Transport Booking &amp; Quote</h3>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="name">Your Name *</label>
+                <input type="text" id="name" name="name" placeholder="Enter your full name" required />
+              </div>
+              <div class="form-group">
+                <label for="phone">Phone Number *</label>
+                <input type="tel" id="phone" name="phone" placeholder="Your mobile number" required />
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="pickup">Pickup Location *</label>
+                <input type="text" id="pickup" name="pickup" placeholder="e.g. Dum Dum, Kolkata" required />
+              </div>
+              <div class="form-group">
+                <label for="dropoff">Drop-off Location *</label>
+                <input type="text" id="dropoff" name="dropoff" placeholder="e.g. Barasat, N24 Pgs" required />
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="vehicle-type">Vehicle Type *</label>
+                <select id="vehicle-type" name="vehicle-type" required>
+                  <option value="" disabled selected>Select vehicle</option>
+                  <option value="mini-truck">Mini Truck / Tata Ace (Up to 1 Ton)</option>
+                  <option value="tempo">Tempo / Pickup (1–3 Tons)</option>
+                  <option value="medium-truck">Medium Truck (3–7 Tons)</option>
+                  <option value="large-truck">Large Truck / Lorry (7–15+ Tons)</option>
+                  <option value="not-sure">Not Sure – Help Me Choose</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="goods-type">Type of Goods *</label>
+                <select id="goods-type" name="goods-type" required>
+                  <option value="" disabled selected>Select goods type</option>
+                  <option value="household">Household / Furniture</option>
+                  <option value="commercial">Commercial / Retail Goods</option>
+                  <option value="construction">Construction Materials</option>
+                  <option value="industrial">Industrial Equipment</option>
+                  <option value="agricultural">Agricultural Produce</option>
+                  <option value="other">Other</option>
+                </select>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="move-date">Preferred Date</label>
+                <input type="date" id="move-date" name="move-date" />
+              </div>
+              <div class="form-group">
+                <label for="move-time">Preferred Time</label>
+                <select id="move-time" name="move-time">
+                  <option value="" disabled selected>Select time slot</option>
+                  <option value="morning">Morning (6 AM – 12 PM)</option>
+                  <option value="afternoon">Afternoon (12 PM – 5 PM)</option>
+                  <option value="evening">Evening (5 PM – 9 PM)</option>
+                  <option value="flexible">I'm Flexible</option>
+                </select>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="message">Additional Details</label>
+              <textarea id="message" name="message" rows="3" placeholder="Tell us more about your goods, any special requirements, etc."></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary btn-full" id="submit-booking">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.69A2 2 0 012 .84h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.09 8.26a16 16 0 006.72 6.72l1.52-1.19a2 2 0 012.11-.45c.9.35 1.84.6 2.81.7A2 2 0 0122 16.92z"/></svg>
+              Request Free Quote
+            </button>
+            <p class="form-note">* We'll call you back within 30 minutes during business hours.</p>
+            <div class="form-success" id="form-success" style="display:none;">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22,4 12,14.01 9,11.01"/></svg>
+              <div>
+                <strong>Request Submitted!</strong>
+                <p>Thank you! We'll contact you shortly.</p>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CONTACT SECTION ===== -->
+  <section class="section contact-section" id="contact">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">Get in Touch</div>
+        <h2 class="section-title">Contact Us</h2>
+        <p class="section-desc">We're available 7 days a week. Reach out for bookings, quotes or any queries.</p>
+      </div>
+      <div class="contact-cards">
+        <div class="contact-card" id="contact-phone">
+          <div class="contact-icon">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.69A2 2 0 012 .84h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.09 8.26a16 16 0 006.72 6.72l1.52-1.19a2 2 0 012.11-.45c.9.35 1.84.6 2.81.7A2 2 0 0122 16.92z"/></svg>
+          </div>
+          <h3>Call Us Directly</h3>
+          <p>Speak to us directly for instant booking</p>
+          <a href="tel:+91XXXXXXXXXX" class="contact-link call-link" id="contact-call-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.69A2 2 0 012 .84h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.09 8.26a16 16 0 006.72 6.72l1.52-1.19a2 2 0 012.11-.45c.9.35 1.84.6 2.81.7A2 2 0 0122 16.92z"/></svg>
+            Call Now
+          </a>
+        </div>
+        <div class="contact-card" id="contact-whatsapp">
+          <div class="contact-icon whatsapp-icon">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+          </div>
+          <h3>WhatsApp Us</h3>
+          <p>Send us a message on WhatsApp for quick response</p>
+          <a href="https://wa.me/91XXXXXXXXXX?text=Hello%20SOFIK%20TRANSPORT%2C%20I%20need%20a%20transport%20quote." class="contact-link whatsapp-link" id="contact-whatsapp-btn" target="_blank" rel="noopener">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            Chat on WhatsApp
+          </a>
+        </div>
+        <div class="contact-card" id="contact-location">
+          <div class="contact-icon location-icon">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          </div>
+          <h3>Our Location</h3>
+          <p>Serving Kolkata &amp; North 24 Parganas, West Bengal, India</p>
+          <span class="contact-link location-link">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            West Bengal, India
+          </span>
+        </div>
+        <div class="contact-card" id="contact-hours">
+          <div class="contact-icon hours-icon">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12,6 12,12 16,14"/></svg>
+          </div>
+          <h3>Business Hours</h3>
+          <p>We're available almost around the clock for your transport needs</p>
+          <div class="hours-list">
+            <div class="hours-item"><span>Mon – Sat</span><span>6:00 AM – 9:00 PM</span></div>
+            <div class="hours-item"><span>Sunday</span><span>8:00 AM – 6:00 PM</span></div>
+            <div class="hours-item highlight"><span>Emergency</span><span>24/7 Available</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer" id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="footer-grid">
+          <div class="footer-brand">
+            <div class="footer-logo">
+              <svg width="34" height="34" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="38" height="38" rx="8" fill="#1565C0"/>
+                <path d="M6 24V16C6 15.448 6.448 15 7 15H22L28 20V24H6Z" fill="white" opacity="0.9"/>
+                <rect x="28" y="20" width="4" height="4" fill="white" opacity="0.7"/>
+                <circle cx="11" cy="26" r="3" fill="#FFD600"/>
+                <circle cx="24" cy="26" r="3" fill="#FFD600"/>
+              </svg>
+              <div>
+                <span class="footer-logo-main">SOFIK TRANSPORT</span>
+                <span class="footer-logo-sub">West Bengal, India</span>
+              </div>
+            </div>
+            <p class="footer-about">Your trusted partner for safe, timely, and affordable goods transportation from Kolkata to North 24 Parganas, West Bengal.</p>
+            <div class="footer-cta-btns">
+              <a href="tel:+91XXXXXXXXXX" class="footer-btn call-btn" id="footer-call-btn">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.69A2 2 0 012 .84h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.09 8.26a16 16 0 006.72 6.72l1.52-1.19a2 2 0 012.11-.45c.9.35 1.84.6 2.81.7A2 2 0 0122 16.92z"/></svg>
+                Call Now
+              </a>
+              <a href="https://wa.me/91XXXXXXXXXX" class="footer-btn whatsapp-btn" id="footer-whatsapp-btn" target="_blank" rel="noopener">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                WhatsApp
+              </a>
+            </div>
+          </div>
+          <div class="footer-col">
+            <h4 class="footer-heading">Quick Links</h4>
+            <ul class="footer-links">
+              <li><a href="#home">Home</a></li>
+              <li><a href="#about">About Us</a></li>
+              <li><a href="#services">Our Services</a></li>
+              <li><a href="#vehicles">Our Fleet</a></li>
+              <li><a href="#areas">Service Areas</a></li>
+              <li><a href="#booking">Book a Truck</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4 class="footer-heading">Our Services</h4>
+            <ul class="footer-links">
+              <li><a href="#services">Local Goods Transport</a></li>
+              <li><a href="#services">Household Shifting</a></li>
+              <li><a href="#services">Commercial Cargo</a></li>
+              <li><a href="#services">Construction Materials</a></li>
+              <li><a href="#services">Express Delivery</a></li>
+              <li><a href="#booking">Get Free Quote</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4 class="footer-heading">Service Areas</h4>
+            <ul class="footer-links">
+              <li><a href="#areas">Kolkata City</a></li>
+              <li><a href="#areas">Barasat</a></li>
+              <li><a href="#areas">Barrackpore</a></li>
+              <li><a href="#areas">Habra</a></li>
+              <li><a href="#areas">Basirhat</a></li>
+              <li><a href="#areas">Kalyani</a></li>
+              <li><a href="#areas">All N24 Parganas</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <p>&copy; 2024 SOFIK TRANSPORT. All rights reserved. | Kolkata &amp; North 24 Parganas, West Bengal, India</p>
+        <p class="footer-tagline">Safe Transport. On Time. Every Time.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ===== FLOATING ACTION BUTTONS ===== -->
+  <div class="floating-actions" id="floating-actions">
+    <a href="https://wa.me/91XXXXXXXXXX?text=Hello%20SOFIK%20TRANSPORT%2C%20I%20need%20transport%20help." class="fab fab-whatsapp" id="fab-whatsapp" target="_blank" rel="noopener" aria-label="WhatsApp SOFIK TRANSPORT">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+      <span class="fab-tooltip">WhatsApp Us</span>
+    </a>
+    <a href="tel:+91XXXXXXXXXX" class="fab fab-call" id="fab-call" aria-label="Call SOFIK TRANSPORT">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.69A2 2 0 012 .84h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.09 8.26a16 16 0 006.72 6.72l1.52-1.19a2 2 0 012.11-.45c.9.35 1.84.6 2.81.7A2 2 0 0122 16.92z"/></svg>
+      <span class="fab-tooltip">Call Now</span>
+    </a>
+  </div>
+
+  <!-- ===== BACK TO TOP ===== -->
+  <button class="back-to-top" id="back-to-top" aria-label="Back to top">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18,15 12,9 6,15"/></svg>
+  </button>
+
+  <script src="script.js"></script>
+</body>
+</html>
